@@ -4,7 +4,7 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Home from './components/Home'
 import Paste from './components/Paste'
-import Viewpaste from './components/Viewpaste'
+import Viewpaste from './components/ViewPaste'
 
 const router = createBrowserRouter(
   [
